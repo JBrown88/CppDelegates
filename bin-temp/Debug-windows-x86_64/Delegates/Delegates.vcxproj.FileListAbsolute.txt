@@ -1,0 +1,2 @@
+D:\dev\Brownie\Brownie\vendor\CppDelegates\bin\Debug-windows-x86_64\Delegates\Delegates.pdb
+D:\dev\Brownie\Brownie\vendor\CppDelegates\bin-temp\Debug-windows-x86_64\Delegates\Delegates.pdb
