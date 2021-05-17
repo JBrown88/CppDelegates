@@ -1,3 +1,2 @@
-﻿cl : command line warning D9025: overriding '/MTd' with '/MDd'
-  Delegates.cpp
+﻿  Delegates.cpp
   Delegates.vcxproj -> D:\dev\Brownie\Brownie\vendor\CppDelegates\bin\Debug-windows-x86_64\Delegates\Delegates.lib
